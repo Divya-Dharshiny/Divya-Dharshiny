@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Divya&style=for-the-badge&url=https%3A%2F%2Fdivya-dharshini.netlify.app/)](https://divya-dharshini.netlify.app/)
 
 
-## I'm a Application Developer, Data Scientist, and Music enthusiast!!
+## I'm a Data Scientist, Application Developer and Music enthusiast!!
 
 
 - 🌱 I’m currently learning everything 

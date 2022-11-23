@@ -1,12 +1,12 @@
 ### Hi, I'm Divya - aka [Divya-Dharshiny][website] 👋
 
-[![Website](https://img.shields.io/website?label=Sanjai&style=for-the-badge&url=https%3A%2F%2Fsanjais.netlify.app)](https://sanjais.netlify.app/)
+[![Website](https://img.shields.io/website?label=Divya&style=for-the-badge&url=https%3A%2F%2Fdivya-dharshini.netlify.app/)](https://divya-dharshini.netlify.app/)
 
 
 ## I'm a Developer, Data Scientist, and Music enthusiast!!
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and sing.

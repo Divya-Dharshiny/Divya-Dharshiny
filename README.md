@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sanjais.netlify.app" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][website]
+[<img align="left" alt="divya-dharshini.netlify.app/" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][website]
 [<img align="left" alt="Divya | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 
 
